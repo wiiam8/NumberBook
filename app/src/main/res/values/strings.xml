@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Number Book</string>
+    <string name="title_number_book">Number Book</string>
+    <string name="load_contacts">CHARGER LES CONTACTS</string>
+    <string name="sync_contacts">SYNCHRONISER VERS LE SERVEUR</string>
+    <string name="search_hint">Rechercher par nom ou numéro</string>
+    <string name="search">RECHERCHER</string>
+    <string name="show_server_contacts">AFFICHER CONTACTS SERVEUR</string>
+    <string name="contacts_loaded">Contacts chargés : %1$d</string>
+    <string name="permission_denied">Permission refusée</string>
+    <string name="empty_contacts">Aucun contact à synchroniser</string>
+    <string name="sync_started">Synchronisation lancée</string>
+    <string name="sync_done">Synchronisation terminée : %1$d succès, %2$d erreurs</string>
+    <string name="network_error">Erreur réseau</string>
+    <string name="search_empty">Saisir un nom ou un numéro</string>
+    <string name="search_error">Erreur lors de la recherche</string>
+    <string name="server_contacts_error">Erreur lors du chargement distant</string>
+    <string name="contacts_from_server">Contacts serveur chargés : %1$d</string>
+</resources>
